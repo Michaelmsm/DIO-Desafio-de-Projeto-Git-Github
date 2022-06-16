@@ -1,0 +1,7 @@
+Comandos no git bash
+
+- git clone - Faz o clone do repositório remoto para o local
+- git status - Mostra o satus do repositório local
+- git add - Realiza a adição de arquivos/pasta ao controle de versão local
+- git commit - Comando utilizado para concluir a adição e permitir o envio para o repositório remoto
+- git push - Utilizado para enviar o repositório local para o repositório remoto
